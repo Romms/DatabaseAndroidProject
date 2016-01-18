@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dblab</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_intersect">Intersect Tables</string>
+    <string name="action_product">Product Tables</string>
+    <string name="title_activity_table_view">TableViewActivity</string>
+    <string name="dialog_choose_3_tables">Choose three tables</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose</string>
+    <string name="table1">Table1</string>
+    <string name="table2">Table2</string>
+    <string name="table3">Table3</string>
+</resources>
